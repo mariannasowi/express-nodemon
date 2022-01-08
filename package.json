@@ -5,7 +5,7 @@
   "repository": "git@github.com:mariannasowi/express-nodemon.git",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.2",
     "express-handlebars": "3.1.0",
     "multer": "^1.4.2"
   }
